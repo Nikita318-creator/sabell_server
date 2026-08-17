@@ -16,5 +16,14 @@
     "price": 245.50,
     "isShowOnHomeScreen": true,
     "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
-  }
+  },
+    {
+    "id": "3",
+    "title": "тест",
+    "desc": "вот так вот",
+    "tags": "платье,миди,вечернее,одежда",
+    "price": 666.0,
+    "isShowOnHomeScreen": true,
+    "imageUrl": "https://raw.githubusercontent.com/uvarovn771-blip/GF_photos/main/test$id.jpg"
+  },
 ]
