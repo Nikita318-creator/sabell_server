@@ -1,9 +1,20 @@
-{
-  "id": "1",
-  "title": "Шелковая блузка",
-  "desc": "Легкая шелковая блуза свободного кроя. Идеально сочетается с брюками с завышенной талией или базовой юбкой.",
-  "tags": "блуза,блузка,шелк,шелковая,топ,рубашка",
-  "price": 185.99,
-  "isShowOnHomeScreen": true,
-  "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=800",
-}
+[
+  {
+    "id": "1",
+    "title": "Шелковая блузка",
+    "desc": "Легкая шелковая блуза свободного кроя. Идеально сочетается с брюками с завышенной талией или базовой юбкой.",
+    "tags": "блуза,блузка,шелк,шелковая,топ,рубашка",
+    "price": 185.99,
+    "isShowOnHomeScreen": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "id": "2",
+    "title": "Платье миди с разрезом",
+    "desc": "Элегантное платье миди глубокого оттенка.",
+    "tags": "платье,миди,вечернее,одежда",
+    "price": 245.50,
+    "isShowOnHomeScreen": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+  }
+]
